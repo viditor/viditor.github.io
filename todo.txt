@@ -1,0 +1,5 @@
+embed the mailchimp form for subscribing
+improve the weekly update prototype system
+add user stories and important events
+link to facebook and google+ and twitter
+remove redundant stylings in a, p, and b
